@@ -1,6 +1,7 @@
+
 ## Greetings👋
 
-![Diseño sin título (49)](https://github.com/user-attachments/assets/81167e4d-1958-43f9-8ad9-121bda7c0dd8)
+![image](https://github.com/user-attachments/assets/73d0d847-a223-41e3-87c4-72e2a5c1a1f1)
 
 
 I'm a Data Analyst with a background in International Business and hands-on experience in investment project evaluation, analytics, and strategic decision-making. My technical toolkit includes Python (pandas, numpy, matplotlib, seaborn, plotly), SQL, Tableau, and Streamlit. I've developed dashboards, modularized pipelines, and delivered insights across various projects—from business analysis and A/B testing to predictive modeling and data-driven storytelling.
@@ -11,7 +12,11 @@ I aim to deliver value through actionable insights, strategic thinking, and robu
 
 ## 🌱 I’m currently learning:
 
-**Power BI**, **Python**, and **SQL**: I have already learned the basics and have applied these tools in multiple bootcamp projects, but I like to keep learning and mastering them. 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+I have already learned the basics and have applied these tools in multiple bootcamp projects, but I like to keep learning and mastering them. 
 
 I use **GPT** as a strategic **coding partner** for **Python-based data analysis**. While I understand the core logic and capabilities of the language, I delegate much of the coding to AI in order to work more efficiently, focusing my time on interpreting **insights**, improving workflows, solving technical issues, and asking better questions. 
 
@@ -26,3 +31,5 @@ Junior data analysis roles—particularly in business-focused analysis for retai
 ## ⚡ Fun fact: 
 
 I am a Big **One Piece** Fan, I find it super inspiring. 
+
+
