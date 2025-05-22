@@ -1,6 +1,6 @@
 ## Greetings👋
 
-![Diseño sin título (48)](https://github.com/user-attachments/assets/c87c6bb2-de03-460b-aae6-78ba92d90096)
+![Diseño sin título (49)](https://github.com/user-attachments/assets/81167e4d-1958-43f9-8ad9-121bda7c0dd8)
 
 
 I'm a Data Analyst with a background in International Business and hands-on experience in investment project evaluation, analytics, and strategic decision-making. My technical toolkit includes Python (pandas, numpy, matplotlib, seaborn, plotly), SQL, Tableau, and Streamlit. I've developed dashboards, modularized pipelines, and delivered insights across various projects—from business analysis and A/B testing to predictive modeling and data-driven storytelling.
